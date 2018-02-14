@@ -31,7 +31,7 @@ Life Cost Level (From the most expensive till the cheapest):
 Tourism Level (From the most touristic site till the least one):
   1. Granada, Spain < for sure :) >
   2. New York, United States
-  3.Berlin, Germany
+  3. Berlin, Germany
 
 So now imagine that the user produce the next conditions values:
   . High education university ranking, ubicated in cheap country life cost, with high toursim level.
